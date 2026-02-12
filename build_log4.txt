@@ -1,0 +1,53 @@
+﻿node.exe : - Generating browser 
+application bundles (phase: 
+setup)...
+In C:\Program 
+Files\nodejs\npx.ps1:29 car:3
++   & $NODE_EXE $NPX_CLI_JS 
+$args
++   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : N 
+   otSpecified: (- Generating   
+  br...hase: setup)...:String   
+ ) [], RemoteException
+    + FullyQualifiedErrorId : N 
+   ativeCommandError
+ 
+Ô£ö Browser application bundle 
+generation complete.
+Ô£ö Browser application bundle 
+generation complete.
+- Copying assets...
+Ô£ö Copying assets complete.
+- Generating index html...
+Ô£ö Index html generation 
+complete.
+
+Initial Chunk Files           | Names                    |  Raw Size | Estimated Transfer Size
+styles.5e8fe41b92a70c27.css   | styles                   | 431.56 kB |                48.90 kB
+main.f7dc5283851afc55.js      | main                     | 287.00 kB |                76.34 kB
+polyfills.07d2f842aa7c181a.js | polyfills                |  33.04 kB |                10.62 kB
+runtime.655360cab1e48920.js   | runtime                  |   2.64 kB |                 1.24 kB
+
+| Initial Total            | 754.24 kB |               137.11 kB
+
+Lazy Chunk Files              | Names                    |  Raw Size | Estimated Transfer Size
+524.93e8918ee2dd4725.js       | showcase-showcase-module | 598.02 kB |                84.48 kB
+
+Build at: 2026-02-12T09:51:33.933Z - Hash: 5a5d4210734b4311 - Time: 11226ms
+
+./node_modules/ngx-sirio-lib/sou
+rce/styles.min.css - Warning: 
+Module Warning (from ./node_modu
+les/postcss-loader/dist/cjs.js):
+(1:279780) from "autoprefixer" 
+plugin: end value has mixed 
+support, consider using 
+flex-end instead
+
+Code:
+  justify-content:end
+
+
+

@@ -1,0 +1,427 @@
+﻿node.exe : - 
+Generating browser 
+application bundles 
+(phase: setup)...
+In C:\Program Files\n
+odejs\npx.ps1:29 
+car:3
++   & $NODE_EXE 
+$NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (- Gener   
+ ating br...hase:    
+ setup)...:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+Ô£ö Browser 
+application bundle 
+generation complete.
+Ô£ö Browser 
+application bundle 
+generation complete.
+
+Warning: C:/Users/Mat
+tiaRosati/Desktop/Per
+sonal/sirio-showcase/
+src/app/app.component
+.scss exceeded 
+maximum budget. 
+Budget 2.00 kB was 
+not met by 2.29 kB 
+with a total of 4.29 
+kB.
+
+Warning: C:/Users/Mat
+tiaRosati/Desktop/Per
+sonal/sirio-showcase/
+src/app/showcase/home
+/home.component.ts-an
+gular-inline--1.css 
+exceeded maximum 
+budget. Budget 2.00 
+kB was not met by 
+614 bytes with a 
+total of 2.60 kB.
+
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+4:3 - error NG8008: 
+Required input 
+'labelClose' from 
+component 
+SirioAlertComponent 
+must be specified.
+
+4   <ngx-sirio-alert 
+type="success" 
+title="Successo" 
+message="Operazione 
+completata correttame
+nte."></ngx-sirio-ale
+rt>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+5:3 - error NG8008: 
+Required input 
+'labelClose' from 
+component 
+SirioAlertComponent 
+must be specified.
+
+5   <ngx-sirio-alert 
+type="warning" 
+title="Attenzione" 
+message="Verifica i 
+dati inseriti."></ngx
+-sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+6:3 - error NG8008: 
+Required input 
+'labelClose' from 
+component 
+SirioAlertComponent 
+must be specified.
+
+6   <ngx-sirio-alert 
+type="info" 
+title="Info" message=
+"Informazione utile 
+per l'utente."></ngx-
+sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+7:3 - error NG8008: 
+Required input 
+'labelClose' from 
+component 
+SirioAlertComponent 
+must be specified.
+
+7   <ngx-sirio-alert 
+type="danger" 
+title="Errore" 
+message="Si ├¿ 
+verificato un errore.
+"></ngx-sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+7:20 - error TS2322: 
+Type '"danger"' is 
+not assignable to 
+type '"error" | 
+"info" | "success" | 
+"warning"'.
+
+7   <ngx-sirio-alert 
+type="danger" 
+title="Errore" 
+message="Si ├¿ 
+verificato un errore.
+"></ngx-sirio-alert>
+                     
+~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-demo.component.ts:1
+6:51 - error TS2322: 
+Type 'string' is not 
+assignable to type 
+'boolean'.
+
+16             
+<ngx-sirio-checkbox 
+label="Ricordami" che
+cked="true"></ngx-sir
+io-checkbox>
+                     
+                     
+           ~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-demo.component.ts:1
+7:54 - error TS2322: 
+Type 'string' is not 
+assignable to type 
+'boolean'.
+
+17             
+<ngx-sirio-checkbox 
+label="Disabilitato" 
+disabled="true"></ngx
+-sirio-checkbox>
+                     
+                     
+              
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-c
+hip-demo.component.ts
+:13:82 - error 
+NG8008: Required 
+input 'type' from 
+component SirioInputC
+hipComponent must be 
+specified.
+
+13           <div cla
+ss="demo-section"><h3
+>Input Chip</h3><div 
+class="preview-area">
+<ngx-sirio-input-chip
+ label="Tag"></ngx-si
+rio-input-chip></div>
+</div>
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/toggle-
+demo.component.ts:16:
+46 - error TS2322: 
+Type 'string' is not 
+assignable to type 
+'boolean'.
+
+16             
+<ngx-sirio-toggle 
+label="Attivo" checke
+d="true"></ngx-sirio-
+toggle>
+                     
+                     
+      ~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:4:3 - error 
+NG8008: Required 
+input 'text' from 
+component 
+SirioChipComponent 
+must be specified.
+
+4   <ngx-sirio-chip 
+label="Chip Base"></n
+gx-sirio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:5:3 - error 
+NG8008: Required 
+input 'text' from 
+component 
+SirioChipComponent 
+must be specified.
+
+5   <ngx-sirio-chip 
+label="Chip 
+Chiudibile" [isDismis
+sible]="true"></ngx-s
+irio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:6:3 - error 
+NG8008: Required 
+input 'text' from 
+component 
+SirioChipComponent 
+must be specified.
+
+6   <ngx-sirio-chip 
+label="Disabilitato" 
+[disabled]="true"></n
+gx-sirio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/tables/table
+-demo.component.ts:3:
+681 - error NG8008: 
+Required inputs 
+'data', 'columns' 
+from component 
+SirioTableComponent 
+must be specified.
+
+3     selector: 
+'demo-table', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Table</h1><p>Tab
+ella HTML semplice 
+con scroll orizzontal
+e.</p></div><div clas
+s="demo-tabs"><div cl
+ass="tab-nav"><button
+ class="tab-btn" [cla
+ss.active]="activeTab
+==='preview'" (click)
+="activeTab='preview'
+">Preview</button><bu
+tton class="tab-btn" 
+[class.active]="activ
+eTab==='code'" (click
+)="activeTab='code'">
+Code</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Tabe
+lla</h3><div 
+class="preview-area" 
+style="display:block;
+overflow:auto;"><ngx-
+sirio-table [config]=
+"tableConfig"></ngx-s
+irio-table></div></di
+v></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">T
+ypeScript</span></div
+><pre>{{ code }}</pre
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>config</code
+></td><td><code>Table
+Config</code></td><td
+>Configurazione tabel
+la</td></tr></tbody><
+/table></div></div></
+div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+          ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: C:/Users/Matti
+aRosati/Desktop/Perso
+nal/sirio-showcase/sr
+c/app/app.component.s
+css exceeded maximum 
+budget. Budget 4.00 
+kB was not met by 
+292 bytes with a 
+total of 4.29 kB.
+
+

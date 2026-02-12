@@ -1,0 +1,136 @@
+﻿node.exe : - Generating browser 
+application bundles (phase: 
+setup)...
+In C:\Program 
+Files\nodejs\npx.ps1:29 car:3
++   & $NODE_EXE $NPX_CLI_JS 
+$args
++   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : N 
+   otSpecified: (- Generating   
+  br...hase: setup)...:String   
+ ) [], RemoteException
+    + FullyQualifiedErrorId : N 
+   ativeCommandError
+ 
+Ô£ö Browser application bundle 
+generation complete.
+Ô£ö Browser application bundle 
+generation complete.
+
+Warning: C:/Users/MattiaRosati/D
+esktop/Personal/sirio-showcase/s
+rc/app/app.component.scss 
+exceeded maximum budget. Budget 
+2.00 kB was not met by 2.29 kB 
+with a total of 4.29 kB.
+
+Warning: C:/Users/MattiaRosati/D
+esktop/Personal/sirio-showcase/s
+rc/app/showcase/home/home.compon
+ent.ts-angular-inline--1.css 
+exceeded maximum budget. Budget 
+2.00 kB was not met by 614 
+bytes with a total of 2.60 kB.
+
+
+
+Error: src/app/showcase/demos/ta
+bles/table-demo.component.ts:3:7
+11 - error TS2322: Type '{ key: 
+string; label: string; }[]' is 
+not assignable to type 
+'TableColumnConfig[]'.
+  Property 'title' is missing 
+in type '{ key: string; label: 
+string; }' but required in type 
+'TableColumnConfig'.
+
+3   selector: 'demo-table', 
+template: `<div 
+class="component-demo"><div clas
+s="demo-header"><h1>Table</h1><p
+>Tabella con dati, colonne e 
+ordinamento.</p></div><div 
+class="demo-tabs"><div 
+class="tab-nav"><button 
+class="tab-btn" [class.active]="
+activeTab==='preview'" (click)="
+activeTab='preview'">Preview</bu
+tton><button class="tab-btn" [cl
+ass.active]="activeTab==='code'"
+ (click)="activeTab='code'">Code
+</button><button 
+class="tab-btn" [class.active]="
+activeTab==='api'" (click)="acti
+veTab='api'">API</button></div><
+div class="tab-content" *ngIf="a
+ctiveTab==='preview'"><div class
+="demo-section"><h3>Tabella</h3>
+<div class="preview-area" style=
+"display:block;overflow:auto;"><
+ngx-sirio-table 
+[data]="tableData" [columns]="ta
+bleColumns"></ngx-sirio-table></
+div></div></div><div 
+class="tab-content" 
+*ngIf="activeTab==='code'"><div 
+class="demo-section"><div 
+class="code-block"><div 
+class="code-header"><span class=
+"code-lang">TypeScript</span></d
+iv><pre>{{ code 
+}}</pre></div></div></div><div 
+class="tab-content" *ngIf="activ
+eTab==='api'"><h3>Inputs</h3><ta
+ble class="api-table"><thead><tr
+><th>Nome</th><th>Tipo</th><th>D
+escrizione</th></tr></thead><tbo
+dy><tr><td><code>data</code></td
+><td><code>TableData[]</code></t
+d><td>Array dati (required)</td>
+</tr><tr><td><code>columns</code
+></td><td><code>TableColumnConfi
+g[]</code></td><td>Colonne (requ
+ired)</td></tr><tr><td><code>sor
+table</code></td><td><code>boole
+an</code></td><td>Abilita ordina
+mento</td></tr><tr><td><code>tit
+le</code></td><td><code>string</
+code></td><td>Titolo tabella</td
+></tr></tbody></table></div></di
+v></div>`,
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+        ~~~~~~~
+
+
+Error: C:/Users/MattiaRosati/Des
+ktop/Personal/sirio-showcase/src
+/app/app.component.scss 
+exceeded maximum budget. Budget 
+4.00 kB was not met by 292 
+bytes with a total of 4.29 kB.
+
+

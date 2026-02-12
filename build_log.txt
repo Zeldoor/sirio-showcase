@@ -1,0 +1,6850 @@
+﻿node.exe : - 
+Generating browser 
+application bundles 
+(phase: setup)...
+In C:\Program Files\n
+odejs\npx.ps1:29 
+car:3
++   & $NODE_EXE 
+$NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (- Gener   
+ ating br...hase:    
+ setup)...:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+Ô£ö Browser 
+application bundle 
+generation complete.
+Ô£ö Browser 
+application bundle 
+generation complete.
+
+Warning: C:/Users/Mat
+tiaRosati/Desktop/Per
+sonal/sirio-showcase/
+src/app/app.component
+.scss exceeded 
+maximum budget. 
+Budget 2.00 kB was 
+not met by 2.29 kB 
+with a total of 4.29 
+kB.
+
+Warning: C:/Users/Mat
+tiaRosati/Desktop/Per
+sonal/sirio-showcase/
+src/app/showcase/home
+/home.component.ts-an
+gular-inline--1.css 
+exceeded maximum 
+budget. Budget 2.00 
+kB was not met by 
+614 bytes with a 
+total of 2.60 kB.
+
+
+
+./src/app/showcase/sh
+owcase.module.ts:124:
+921-955 - Error: 
+export 'SirioAccordio
+nPanelHeaderComponent
+' (imported as 'Sirio
+AccordionPanelHeaderC
+omponent') was not 
+found in 
+'ngx-sirio-lib' 
+(possible exports: 
+AdobeService, 
+ButtonType, 
+CAROUSEL_DIRECTION, 
+CTA_EVENT_TYPE, CUSTO
+M_BREADCRUMB_SELECTOR
+, CardImgPosition, 
+ChipType, 
+DialogEnumSizes, 
+DialogEnumTypes, 
+DrawerEnumContext, 
+HOST, 
+IsVisibleDirective, 
+KEY_OF_SUBAREA, 
+OrientationTabEnum, S
+irioAccordionBodyComp
+onent, SirioAccordion
+Component, SirioAccor
+dionHeaderComponent, 
+SirioAccordionPanelCo
+mponent, 
+SirioActionCell, 
+SirioActionType, Siri
+oAlertBtnItemComponen
+t, 
+SirioAlertComponent, 
+SirioAlertLinkCompone
+nt, SirioAlertLinkIte
+mComponent, SirioAler
+tMessageComponent, 
+SirioAlertType, Sirio
+AutocompleteComponent
+, SirioAutocompleteOp
+tionComponent, SirioA
+utocompletePanelCompo
+nent, SirioBreadcrumb
+Component, SirioBread
+crumbItemComponent, S
+irioButtonComponent, 
+SirioCardActionType, 
+SirioCardBodyComponen
+t, 
+SirioCardComponent, S
+irioCardFooterCompone
+nt, SirioCardHeaderCo
+mponent, SirioCardIco
+nsComponent, SirioCar
+dLinkComponent, Sirio
+CardLinkIconComponent
+, SirioCardSignatureC
+omponent, SirioCardSu
+btitleComponent, Siri
+oCardTextComponent, S
+irioCardTitleComponen
+t, SirioCarouselCompo
+nent, SirioCarouselEl
+ementComponent, 
+SirioCell, 
+SirioCellDef, SirioCh
+eckboxComponent, Siri
+oCheckboxGroupCompone
+nt, SirioChipCheckbox
+GroupComponent, 
+SirioChipComponent, S
+irioChipRadioGroupCom
+ponent, SirioCollapse
+Component, SirioColla
+pseTriggerDirective, 
+SirioColumnDef, 
+SirioDataSource, Siri
+oDatepickerComponent,
+ SirioDatetimeType, S
+irioDialogActionDirec
+tive, SirioDialogBody
+Component, SirioDialo
+gComponent, 
+SirioDialogElement, S
+irioDialogFooterCompo
+nent, SirioDialogHead
+erComponent, 
+SirioDialogService, S
+irioDialogTitleCompon
+ent, 
+SirioDismissType, Sir
+ioDropdownComponent, 
+SirioDropdownOptionCo
+mponent, SirioDropdow
+nPanelComponent, Siri
+oExpandableContainerC
+omponent, 
+SirioFeedbackType, Si
+rioFileUploadComponen
+t, SirioFooterCell, 
+SirioFooterCellDef, S
+irioFooterComponent, 
+SirioFooterRow, 
+SirioFooterRowDef, 
+SirioHeaderCell, 
+SirioHeaderCellDef, S
+irioHeaderComponent, 
+SirioHeaderRow, 
+SirioHeaderRowDef, 
+SirioHeroComponent, S
+irioInputChipComponen
+t, 
+SirioInputComponent, 
+SirioInputType, 
+SirioNoDataRow, Sirio
+NotifyActionComponent
+, SirioNotifyBodyComp
+onent, SirioNotifyCom
+ponent, SirioNotifyLi
+nkComponent, SirioPag
+inatorComponent, Siri
+oProgressBarComponent
+, SirioRadioButtonCom
+ponent, SirioRadioGro
+upComponent, SirioRan
+gepickerComponent, Si
+rioRangepickerInputCo
+mponent, 
+SirioRecycleRows, 
+SirioRow, 
+SirioRowDef, SirioSea
+rchbarComponent, Siri
+oSelectComponent, Sir
+ioSelectOptionCompone
+nt, SirioSelectPanelC
+omponent, 
+SirioSelectType, Siri
+oSidenavComponent, Si
+rioSidenavItemCompone
+nt, SirioSidenavMobil
+eComponent, SirioSlid
+erComponent, 
+SirioSortHeader, Siri
+oStepperProgressBarCo
+mponent, SirioStepper
+ProgressItemComponent
+, SirioTabBarComponen
+t, SirioTabBarElement
+Component, 
+SirioTabComponent, Si
+rioTabItemComponent, 
+SirioTabNavComponent,
+ SirioTabNavItemCompo
+nent, SirioTableBuild
+erComponent, 
+SirioTableComponent, 
+SirioTableContainerCo
+mponent, 
+SirioTableModule, Sir
+ioTableNoDataComponen
+t, SirioTableSort, 
+SirioTagComponent, Si
+rioTimepickerComponen
+t, SirioTitleBarActio
+nComponent, SirioTitl
+eBarButtonComponent, 
+SirioTitleBarComponen
+t, 
+SirioToastService, Si
+rioToggleComponent, S
+irioTooltipComponent,
+ SirioTooltipDirectiv
+e, SirioValidationDir
+ective, SirioValidati
+onTypes, 
+StructureService, 
+TableModeOptions, Tab
+leScrollDirective, 
+TargetType, 
+ToastEnumTypes, 
+TooltipButtonEnum, 
+TooltipDirection, Vie
+wportAwareDirective, 
+provideHost, 
+sortDirection)
+
+./src/app/showcase/sh
+owcase.module.ts:124:
+957-989 - Error: 
+export 'SirioAccordio
+nPanelBodyComponent' 
+(imported as 'SirioAc
+cordionPanelBodyCompo
+nent') was not found 
+in 'ngx-sirio-lib' 
+(possible exports: 
+AdobeService, 
+ButtonType, 
+CAROUSEL_DIRECTION, 
+CTA_EVENT_TYPE, CUSTO
+M_BREADCRUMB_SELECTOR
+, CardImgPosition, 
+ChipType, 
+DialogEnumSizes, 
+DialogEnumTypes, 
+DrawerEnumContext, 
+HOST, 
+IsVisibleDirective, 
+KEY_OF_SUBAREA, 
+OrientationTabEnum, S
+irioAccordionBodyComp
+onent, SirioAccordion
+Component, SirioAccor
+dionHeaderComponent, 
+SirioAccordionPanelCo
+mponent, 
+SirioActionCell, 
+SirioActionType, Siri
+oAlertBtnItemComponen
+t, 
+SirioAlertComponent, 
+SirioAlertLinkCompone
+nt, SirioAlertLinkIte
+mComponent, SirioAler
+tMessageComponent, 
+SirioAlertType, Sirio
+AutocompleteComponent
+, SirioAutocompleteOp
+tionComponent, SirioA
+utocompletePanelCompo
+nent, SirioBreadcrumb
+Component, SirioBread
+crumbItemComponent, S
+irioButtonComponent, 
+SirioCardActionType, 
+SirioCardBodyComponen
+t, 
+SirioCardComponent, S
+irioCardFooterCompone
+nt, SirioCardHeaderCo
+mponent, SirioCardIco
+nsComponent, SirioCar
+dLinkComponent, Sirio
+CardLinkIconComponent
+, SirioCardSignatureC
+omponent, SirioCardSu
+btitleComponent, Siri
+oCardTextComponent, S
+irioCardTitleComponen
+t, SirioCarouselCompo
+nent, SirioCarouselEl
+ementComponent, 
+SirioCell, 
+SirioCellDef, SirioCh
+eckboxComponent, Siri
+oCheckboxGroupCompone
+nt, SirioChipCheckbox
+GroupComponent, 
+SirioChipComponent, S
+irioChipRadioGroupCom
+ponent, SirioCollapse
+Component, SirioColla
+pseTriggerDirective, 
+SirioColumnDef, 
+SirioDataSource, Siri
+oDatepickerComponent,
+ SirioDatetimeType, S
+irioDialogActionDirec
+tive, SirioDialogBody
+Component, SirioDialo
+gComponent, 
+SirioDialogElement, S
+irioDialogFooterCompo
+nent, SirioDialogHead
+erComponent, 
+SirioDialogService, S
+irioDialogTitleCompon
+ent, 
+SirioDismissType, Sir
+ioDropdownComponent, 
+SirioDropdownOptionCo
+mponent, SirioDropdow
+nPanelComponent, Siri
+oExpandableContainerC
+omponent, 
+SirioFeedbackType, Si
+rioFileUploadComponen
+t, SirioFooterCell, 
+SirioFooterCellDef, S
+irioFooterComponent, 
+SirioFooterRow, 
+SirioFooterRowDef, 
+SirioHeaderCell, 
+SirioHeaderCellDef, S
+irioHeaderComponent, 
+SirioHeaderRow, 
+SirioHeaderRowDef, 
+SirioHeroComponent, S
+irioInputChipComponen
+t, 
+SirioInputComponent, 
+SirioInputType, 
+SirioNoDataRow, Sirio
+NotifyActionComponent
+, SirioNotifyBodyComp
+onent, SirioNotifyCom
+ponent, SirioNotifyLi
+nkComponent, SirioPag
+inatorComponent, Siri
+oProgressBarComponent
+, SirioRadioButtonCom
+ponent, SirioRadioGro
+upComponent, SirioRan
+gepickerComponent, Si
+rioRangepickerInputCo
+mponent, 
+SirioRecycleRows, 
+SirioRow, 
+SirioRowDef, SirioSea
+rchbarComponent, Siri
+oSelectComponent, Sir
+ioSelectOptionCompone
+nt, SirioSelectPanelC
+omponent, 
+SirioSelectType, Siri
+oSidenavComponent, Si
+rioSidenavItemCompone
+nt, SirioSidenavMobil
+eComponent, SirioSlid
+erComponent, 
+SirioSortHeader, Siri
+oStepperProgressBarCo
+mponent, SirioStepper
+ProgressItemComponent
+, SirioTabBarComponen
+t, SirioTabBarElement
+Component, 
+SirioTabComponent, Si
+rioTabItemComponent, 
+SirioTabNavComponent,
+ SirioTabNavItemCompo
+nent, SirioTableBuild
+erComponent, 
+SirioTableComponent, 
+SirioTableContainerCo
+mponent, 
+SirioTableModule, Sir
+ioTableNoDataComponen
+t, SirioTableSort, 
+SirioTagComponent, Si
+rioTimepickerComponen
+t, SirioTitleBarActio
+nComponent, SirioTitl
+eBarButtonComponent, 
+SirioTitleBarComponen
+t, 
+SirioToastService, Si
+rioToggleComponent, S
+irioTooltipComponent,
+ SirioTooltipDirectiv
+e, SirioValidationDir
+ective, SirioValidati
+onTypes, 
+StructureService, 
+TableModeOptions, Tab
+leScrollDirective, 
+TargetType, 
+ToastEnumTypes, 
+TooltipButtonEnum, 
+TooltipDirection, Vie
+wportAwareDirective, 
+provideHost, 
+sortDirection)
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:4:5 - error 
+NG8001: 'ngx-sirio-ac
+cordion' is not a 
+known element:
+1. If 'ngx-sirio-acco
+rdion' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4     
+<ngx-sirio-accordion>
+      
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:5:7 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel' is 
+not a known element:
+1. If 'ngx-sirio-acco
+rdion-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-acco
+rdion-panel' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5       <ngx-sirio-ac
+cordion-panel>
+        ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:6:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-header'
+ is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-header' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-header' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6         <ngx-sirio-
+accordion-panel-heade
+r>Sezione 1</ngx-siri
+o-accordion-panel-hea
+der>
+          ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:7:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-body' 
+is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-body' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-body' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+7         <ngx-sirio-
+accordion-panel-body>
+Contenuto della 
+prima sezione dell'ac
+cordion.</ngx-sirio-a
+ccordion-panel-body>
+          ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:9:7 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel' is 
+not a known element:
+1. If 'ngx-sirio-acco
+rdion-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-acco
+rdion-panel' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+9       <ngx-sirio-ac
+cordion-panel>
+        ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:10:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-header'
+ is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-header' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-header' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+10         <ngx-sirio
+-accordion-panel-head
+er>Sezione 2</ngx-sir
+io-accordion-panel-he
+ader>
+           ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:11:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-body' 
+is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-body' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-body' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+11         <ngx-sirio
+-accordion-panel-body
+>Contenuto della 
+seconda sezione dell'
+accordion.</ngx-sirio
+-accordion-panel-body
+>
+           ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:13:7 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel' is 
+not a known element:
+1. If 'ngx-sirio-acco
+rdion-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-acco
+rdion-panel' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+13       <ngx-sirio-a
+ccordion-panel>
+         ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:14:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-header'
+ is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-header' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-header' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14         <ngx-sirio
+-accordion-panel-head
+er>Sezione 3</ngx-sir
+io-accordion-panel-he
+ader>
+           ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/containers/a
+ccordion-demo.compone
+nt.ts:15:9 - error 
+NG8001: 'ngx-sirio-ac
+cordion-panel-body' 
+is not a known 
+element:
+1. If 'ngx-sirio-acco
+rdion-panel-body' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-acco
+rdion-panel-body' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15         <ngx-sirio
+-accordion-panel-body
+>Contenuto della 
+terza sezione.</ngx-s
+irio-accordion-panel-
+body>
+           ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ard-demo.component.ts
+:14:13 - error 
+NG8001: 
+'ngx-sirio-card' is 
+not a known element:
+1. If 
+'ngx-sirio-card' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-card' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             
+<ngx-sirio-card style
+="max-width:400px;dis
+play:block;">
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ard-demo.component.ts
+:15:15 - error 
+NG8001: 'ngx-sirio-ca
+rd-header' is not a 
+known element:
+1. If 'ngx-sirio-card
+-header' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-card
+-header' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15               <ngx
+-sirio-card-header 
+title="Titolo Card"><
+/ngx-sirio-card-heade
+r>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ard-demo.component.ts
+:16:15 - error 
+NG8001: 'ngx-sirio-ca
+rd-body' is not a 
+known element:
+1. If 'ngx-sirio-card
+-body' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-card
+-body' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16               
+<ngx-sirio-card-body>
+                 
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ard-demo.component.ts
+:17:17 - error 
+NG8001: 'ngx-sirio-ca
+rd-title' is not a 
+known element:
+1. If 'ngx-sirio-card
+-title' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-card
+-title' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17                 <n
+gx-sirio-card-title>S
+ottotitolo</ngx-sirio
+-card-title>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ard-demo.component.ts
+:18:17 - error 
+NG8001: 'ngx-sirio-ca
+rd-text' is not a 
+known element:
+1. If 'ngx-sirio-card
+-text' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-card
+-text' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+18                 <n
+gx-sirio-card-text>Co
+ntenuto della card 
+con testo 
+esplicativo. Questa 
+├¿ una card base del 
+design system INPS.</
+ngx-sirio-card-text>
+                   
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/c
+ollapse-demo.componen
+t.ts:3:678 - error 
+NG8001: 
+'ngx-sirio-collapse' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-collapse' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-collapse' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-collapse', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Collapse</h1><p>
+Componente collapse 
+con trigger personali
+zzabile.</p></div><di
+v class="demo-tabs"><
+div class="tab-nav"><
+button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Coll
+apse</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-collapse
+></ngx-sirio-collapse
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-collaps
+e&gt;&lt;/ngx-sirio-c
+ollapse&gt;</pre></di
+v></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Info</h3><tab
+le class="api-table">
+<thead><tr><th>Selett
+ore</th><th>Descrizio
+ne</th></tr></thead><
+tbody><tr><td><code>n
+gx-sirio-collapse</co
+de></td><td>Collapse 
+con animazione</td></
+tr><tr><td><code>[sir
+ioCollapseTrigger]</c
+ode></td><td>Directiv
+e trigger</td></tr></
+tbody></table></div><
+/div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+       
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/containers/e
+xpandable-container-d
+emo.component.ts:3:70
+5 - error NG8001: 'ng
+x-sirio-expandable-co
+ntainer' is not a 
+known element:
+1. If 'ngx-sirio-expa
+ndable-container' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-expa
+ndable-container' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-expandable', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Expandable Conta
+iner</h1><p>Container
+ espandibile/collassa
+bile con animazione.<
+/p></div><div class="
+demo-tabs"><div class
+="tab-nav"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Expa
+ndable 
+Container</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-expandab
+le-container></ngx-si
+rio-expandable-contai
+ner></div></div></div
+><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-expanda
+ble-container&gt;&lt;
+/ngx-sirio-expandable
+-container&gt;</pre><
+/div></div></div><div
+ class="tab-content" 
+*ngIf="activeTab==='a
+pi'"><h3>Selector</h3
+><table class="api-ta
+ble"><thead><tr><th>S
+elettore</th><th>Desc
+rizione</th></tr></th
+ead><tbody><tr><td><c
+ode>ngx-sirio-expanda
+ble-container</code><
+/td><td>Container esp
+andibile</td></tr></t
+body></table></div></
+div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+             ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/containers/h
+ero-demo.component.ts
+:3:694 - error 
+NG8001: 
+'ngx-sirio-hero' is 
+not a known element:
+1. If 
+'ngx-sirio-hero' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-hero' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-hero', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Hero</h1><p>Hero
+ section con 
+immagine di sfondo e 
+allineamento.</p></di
+v><div class="demo-ta
+bs"><div class="tab-n
+av"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Hero
+</h3><div 
+class="preview-area" 
+style="display:block;
+padding:0;overflow:hi
+dden;"><ngx-sirio-her
+o></ngx-sirio-hero></
+div></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-hero&gt
+;&lt;/ngx-sirio-hero&
+gt;</pre></div></div>
+</div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>align</code>
+</td><td><code>HeroAl
+ignType</code></td><t
+d>Allineamento: 
+image-start, 
+image-center, image-c
+over</td></tr></tbody
+></table></div></div>
+</div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+  ~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+4:3 - error NG8001: 
+'ngx-sirio-alert' is 
+not a known element:
+1. If 
+'ngx-sirio-alert' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-alert' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-alert 
+type="success" 
+title="Successo" 
+message="Operazione 
+completata correttame
+nte."></ngx-sirio-ale
+rt>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+5:3 - error NG8001: 
+'ngx-sirio-alert' is 
+not a known element:
+1. If 
+'ngx-sirio-alert' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-alert' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   <ngx-sirio-alert 
+type="warning" 
+title="Attenzione" 
+message="Verifica i 
+dati inseriti."></ngx
+-sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+6:3 - error NG8001: 
+'ngx-sirio-alert' is 
+not a known element:
+1. If 
+'ngx-sirio-alert' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-alert' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6   <ngx-sirio-alert 
+type="info" 
+title="Info" message=
+"Informazione utile 
+per l'utente."></ngx-
+sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ale
+rt-demo.component.ts:
+7:3 - error NG8001: 
+'ngx-sirio-alert' is 
+not a known element:
+1. If 
+'ngx-sirio-alert' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-alert' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+7   <ngx-sirio-alert 
+type="danger" 
+title="Errore" 
+message="Si ├¿ 
+verificato un errore.
+"></ngx-sirio-alert>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/feedback/not
+ify-demo.component.ts
+:4:3 - error NG8001: 
+'ngx-sirio-notify' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-notify' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-notify' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   
+<ngx-sirio-notify 
+type="success" 
+title="Completato" 
+message="Operazione 
+avvenuta con successo
+."></ngx-sirio-notify
+>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/not
+ify-demo.component.ts
+:5:3 - error NG8001: 
+'ngx-sirio-notify' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-notify' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-notify' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   
+<ngx-sirio-notify 
+type="info" 
+title="Informazione" 
+message="Nuova 
+comunicazione disponi
+bile."></ngx-sirio-no
+tify>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:4:3 - error 
+NG8001: 'ngx-sirio-pr
+ogress-bar' is not a 
+known element:
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-progre
+ss-bar [value]="25" l
+abel="25%"></ngx-siri
+o-progress-bar>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:4:27 - error 
+NG8002: Can't bind 
+to 'value' since it 
+isn't a known 
+property of 'ngx-siri
+o-progress-bar'.
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component 
+and it has 'value' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+4   <ngx-sirio-progre
+ss-bar [value]="25" l
+abel="25%"></ngx-siri
+o-progress-bar>
+                     
+       ~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:5:3 - error 
+NG8001: 'ngx-sirio-pr
+ogress-bar' is not a 
+known element:
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   <ngx-sirio-progre
+ss-bar [value]="50" l
+abel="50%"></ngx-siri
+o-progress-bar>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:5:27 - error 
+NG8002: Can't bind 
+to 'value' since it 
+isn't a known 
+property of 'ngx-siri
+o-progress-bar'.
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component 
+and it has 'value' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+5   <ngx-sirio-progre
+ss-bar [value]="50" l
+abel="50%"></ngx-siri
+o-progress-bar>
+                     
+       ~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:6:3 - error 
+NG8001: 'ngx-sirio-pr
+ogress-bar' is not a 
+known element:
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6   <ngx-sirio-progre
+ss-bar [value]="75" l
+abel="75%"></ngx-siri
+o-progress-bar>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:6:27 - error 
+NG8002: Can't bind 
+to 'value' since it 
+isn't a known 
+property of 'ngx-siri
+o-progress-bar'.
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component 
+and it has 'value' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+6   <ngx-sirio-progre
+ss-bar [value]="75" l
+abel="75%"></ngx-siri
+o-progress-bar>
+                     
+       ~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:7:3 - error 
+NG8001: 'ngx-sirio-pr
+ogress-bar' is not a 
+known element:
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+7   <ngx-sirio-progre
+ss-bar [value]="100" 
+label="100%"></ngx-si
+rio-progress-bar>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/pro
+gress-bar-demo.compon
+ent.ts:7:27 - error 
+NG8002: Can't bind 
+to 'value' since it 
+isn't a known 
+property of 'ngx-siri
+o-progress-bar'.
+1. If 'ngx-sirio-prog
+ress-bar' is an 
+Angular component 
+and it has 'value' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-prog
+ress-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+7   <ngx-sirio-progre
+ss-bar [value]="100" 
+label="100%"></ngx-si
+rio-progress-bar>
+                     
+       ~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ste
+pper-progress-bar-dem
+o.component.ts:4:3 - 
+error NG8001: 'ngx-si
+rio-stepper-progress-
+bar' is not a known 
+element:
+1. If 'ngx-sirio-step
+per-progress-bar' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-step
+per-progress-bar' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-steppe
+r-progress-bar 
+[steps]="3" [currentS
+tep]="2"></ngx-sirio-
+stepper-progress-bar>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ste
+pper-progress-bar-dem
+o.component.ts:4:35 
+- error NG8002: 
+Can't bind to 
+'steps' since it 
+isn't a known 
+property of 'ngx-siri
+o-stepper-progress-ba
+r'.
+1. If 'ngx-sirio-step
+per-progress-bar' is 
+an Angular component 
+and it has 'steps' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-step
+per-progress-bar' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+4   <ngx-sirio-steppe
+r-progress-bar 
+[steps]="3" [currentS
+tep]="2"></ngx-sirio-
+stepper-progress-bar>
+                     
+               
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/feedback/ste
+pper-progress-bar-dem
+o.component.ts:4:47 
+- error NG8002: 
+Can't bind to 
+'currentStep' since 
+it isn't a known 
+property of 'ngx-siri
+o-stepper-progress-ba
+r'.
+1. If 'ngx-sirio-step
+per-progress-bar' is 
+an Angular component 
+and it has 
+'currentStep' input, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-step
+per-progress-bar' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+4   <ngx-sirio-steppe
+r-progress-bar 
+[steps]="3" [currentS
+tep]="2"></ngx-sirio-
+stepper-progress-bar>
+                     
+                     
+      
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:16:13 - error 
+NG8001: 'ngx-sirio-au
+tocomplete' is not a 
+known element:
+1. If 'ngx-sirio-auto
+complete' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-auto
+complete' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16             <ngx-s
+irio-autocomplete 
+label="Citt├á" 
+placeholder="Cerca 
+una citt├á...">
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:17:15 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-panel' is 
+not a known element:
+1. If 'ngx-sirio-auto
+complete-panel' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-panel' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17               <ngx
+-sirio-autocomplete-p
+anel>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:18:17 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-option' 
+is not a known 
+element:
+1. If 'ngx-sirio-auto
+complete-option' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-option' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+18                 <n
+gx-sirio-autocomplete
+-option value="Roma">
+Roma</ngx-sirio-autoc
+omplete-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:19:17 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-option' 
+is not a known 
+element:
+1. If 'ngx-sirio-auto
+complete-option' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-option' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+19                 <n
+gx-sirio-autocomplete
+-option value="Milano
+">Milano</ngx-sirio-a
+utocomplete-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:20:17 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-option' 
+is not a known 
+element:
+1. If 'ngx-sirio-auto
+complete-option' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-option' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+20                 <n
+gx-sirio-autocomplete
+-option value="Napoli
+">Napoli</ngx-sirio-a
+utocomplete-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:21:17 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-option' 
+is not a known 
+element:
+1. If 'ngx-sirio-auto
+complete-option' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-option' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+21                 <n
+gx-sirio-autocomplete
+-option value="Torino
+">Torino</ngx-sirio-a
+utocomplete-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~
+
+
+Error: src/app/showca
+se/demos/form/autocom
+plete-demo.component.
+ts:22:17 - error 
+NG8001: 'ngx-sirio-au
+tocomplete-option' 
+is not a known 
+element:
+1. If 'ngx-sirio-auto
+complete-option' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-auto
+complete-option' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+22                 <n
+gx-sirio-autocomplete
+-option value="Firenz
+e">Firenze</ngx-sirio
+-autocomplete-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:27:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+27               
+<ngx-sirio-button col
+or="primary">Primary<
+/ngx-sirio-button>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:28:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+28               
+<ngx-sirio-button col
+or="secondary">Second
+ary</ngx-sirio-button
+>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:29:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+29               
+<ngx-sirio-button col
+or="tertiary">Tertiar
+y</ngx-sirio-button>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:30:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+30               
+<ngx-sirio-button col
+or="tertiary-light">T
+ertiary Light</ngx-si
+rio-button>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:31:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+31               
+<ngx-sirio-button col
+or="danger">Danger</n
+gx-sirio-button>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:38:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+38               
+<ngx-sirio-button 
+color="primary" [disa
+bled]="true">Disabled
+ Primary</ngx-sirio-b
+utton>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:38:
+49 - error NG8002: 
+Can't bind to 
+'disabled' since it 
+isn't a known 
+property of 
+'ngx-sirio-button'.
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+38               
+<ngx-sirio-button 
+color="primary" [disa
+bled]="true">Disabled
+ Primary</ngx-sirio-b
+utton>
+                     
+                     
+         
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:39:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+39               
+<ngx-sirio-button 
+color="secondary" [di
+sabled]="true">Disabl
+ed Secondary</ngx-sir
+io-button>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:39:
+51 - error NG8002: 
+Can't bind to 
+'disabled' since it 
+isn't a known 
+property of 
+'ngx-sirio-button'.
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+39               
+<ngx-sirio-button 
+color="secondary" [di
+sabled]="true">Disabl
+ed Secondary</ngx-sir
+io-button>
+                     
+                     
+           
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:46:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+46               
+<ngx-sirio-button 
+color="primary" [isBt
+nBlock]="true">Block 
+Button</ngx-sirio-but
+ton>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:46:
+49 - error NG8002: 
+Can't bind to 
+'isBtnBlock' since 
+it isn't a known 
+property of 
+'ngx-sirio-button'.
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component and it has 
+'isBtnBlock' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+46               
+<ngx-sirio-button 
+color="primary" [isBt
+nBlock]="true">Block 
+Button</ngx-sirio-but
+ton>
+                     
+                     
+         
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/button-
+demo.component.ts:53:
+15 - error NG8001: 
+'ngx-sirio-button' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-button' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-button' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+53               
+<ngx-sirio-button 
+color="primary" (clic
+kEvent)="clickCount 
+= clickCount + 1">
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-demo.component.ts:1
+5:13 - error NG8001: 
+'ngx-sirio-checkbox' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-checkbox' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-checkbox' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             
+<ngx-sirio-checkbox 
+label="Accetto i 
+termini di servizio">
+</ngx-sirio-checkbox>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-demo.component.ts:1
+6:13 - error NG8001: 
+'ngx-sirio-checkbox' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-checkbox' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-checkbox' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16             
+<ngx-sirio-checkbox 
+label="Ricordami" che
+cked="true"></ngx-sir
+io-checkbox>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-demo.component.ts:1
+7:13 - error NG8001: 
+'ngx-sirio-checkbox' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-checkbox' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-checkbox' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17             
+<ngx-sirio-checkbox 
+label="Disabilitato" 
+disabled="true"></ngx
+-sirio-checkbox>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-group-demo.componen
+t.ts:15:13 - error 
+NG8001: 'ngx-sirio-ch
+eckbox-group' is not 
+a known element:
+1. If 'ngx-sirio-chec
+kbox-group' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-chec
+kbox-group' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             <ngx-s
+irio-checkbox-group 
+label="Seleziona 
+hobby" [items]="check
+boxItems"></ngx-sirio
+-checkbox-group>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/form/checkbo
+x-group-demo.componen
+t.ts:15:63 - error 
+NG8002: Can't bind 
+to 'items' since it 
+isn't a known 
+property of 'ngx-siri
+o-checkbox-group'.
+1. If 'ngx-sirio-chec
+kbox-group' is an 
+Angular component 
+and it has 'items' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-chec
+kbox-group' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+15             <ngx-s
+irio-checkbox-group 
+label="Seleziona 
+hobby" [items]="check
+boxItems"></ngx-sirio
+-checkbox-group>
+                     
+                     
+                     
+  ~~~~~~~~~~~~~~~~~~~
+~~~~
+
+
+Error: src/app/showca
+se/demos/form/chip-ch
+eckbox-group-demo.com
+ponent.ts:14:13 - 
+error NG8001: 'ngx-si
+rio-chip-checkbox-gro
+up' is not a known 
+element:
+1. If 'ngx-sirio-chip
+-checkbox-group' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-chip
+-checkbox-group' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             <ngx-s
+irio-chip-checkbox-gr
+oup 
+label="Interessi" [it
+ems]="chipItems"></ng
+x-sirio-chip-checkbox
+-group>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/chip-ch
+eckbox-group-demo.com
+ponent.ts:14:62 - 
+error NG8002: Can't 
+bind to 'items' 
+since it isn't a 
+known property of 'ng
+x-sirio-chip-checkbox
+-group'.
+1. If 'ngx-sirio-chip
+-checkbox-group' is 
+an Angular component 
+and it has 'items' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-chip
+-checkbox-group' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+14             <ngx-s
+irio-chip-checkbox-gr
+oup 
+label="Interessi" [it
+ems]="chipItems"></ng
+x-sirio-chip-checkbox
+-group>
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/chip-ra
+dio-group-demo.compon
+ent.ts:14:13 - error 
+NG8001: 'ngx-sirio-ch
+ip-radio-group' is 
+not a known element:
+1. If 'ngx-sirio-chip
+-radio-group' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-chip
+-radio-group' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             <ngx-s
+irio-chip-radio-group
+ label="Dimensione" [
+items]="chipItems"></
+ngx-sirio-chip-radio-
+group>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/chip-ra
+dio-group-demo.compon
+ent.ts:14:60 - error 
+NG8002: Can't bind 
+to 'items' since it 
+isn't a known 
+property of 'ngx-siri
+o-chip-radio-group'.
+1. If 'ngx-sirio-chip
+-radio-group' is an 
+Angular component 
+and it has 'items' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-chip
+-radio-group' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+14             <ngx-s
+irio-chip-radio-group
+ label="Dimensione" [
+items]="chipItems"></
+ngx-sirio-chip-radio-
+group>
+                     
+                     
+                    
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/datepic
+ker-demo.component.ts
+:14:82 - error 
+NG8001: 'ngx-sirio-da
+tepicker' is not a 
+known element:
+1. If 'ngx-sirio-date
+picker' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-date
+picker' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14           <div cla
+ss="demo-section"><h3
+>Datepicker</h3><div 
+class="preview-area">
+<ngx-sirio-datepicker
+ label="Data di 
+nascita" placeholder=
+"gg/mm/aaaa"></ngx-si
+rio-datepicker></div>
+</div>
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/datepic
+ker-demo.component.ts
+:15:84 - error 
+NG8001: 'ngx-sirio-da
+tepicker' is not a 
+known element:
+1. If 'ngx-sirio-date
+picker' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-date
+picker' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15           <div cla
+ss="demo-section"><h3
+>Disabilitato</h3><di
+v class="preview-area
+"><ngx-sirio-datepick
+er label="Data" [disa
+bled]="true"></ngx-si
+rio-datepicker></div>
+</div>
+                     
+                     
+                     
+                     
+  ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/datepic
+ker-demo.component.ts
+:15:119 - error 
+NG8002: Can't bind 
+to 'disabled' since 
+it isn't a known 
+property of 'ngx-siri
+o-datepicker'.
+1. If 'ngx-sirio-date
+picker' is an 
+Angular component 
+and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-date
+picker' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+15           <div cla
+ss="demo-section"><h3
+>Disabilitato</h3><di
+v class="preview-area
+"><ngx-sirio-datepick
+er label="Data" [disa
+bled]="true"></ngx-si
+rio-datepicker></div>
+</div>
+                     
+                     
+                     
+                     
+                     
+                
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/file-up
+load-demo.component.t
+s:13:83 - error 
+NG8001: 'ngx-sirio-fi
+le-upload' is not a 
+known element:
+1. If 'ngx-sirio-file
+-upload' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-file
+-upload' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+13           <div cla
+ss="demo-section"><h3
+>File 
+Upload</h3><div class
+="preview-area"><ngx-
+sirio-file-upload 
+label="Carica documen
+to"></ngx-sirio-file-
+upload></div></div>
+                     
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-c
+hip-demo.component.ts
+:13:82 - error 
+NG8001: 'ngx-sirio-in
+put-chip' is not a 
+known element:
+1. If 'ngx-sirio-inpu
+t-chip' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-inpu
+t-chip' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+13           <div cla
+ss="demo-section"><h3
+>Input Chip</h3><div 
+class="preview-area">
+<ngx-sirio-input-chip
+ label="Tag"></ngx-si
+rio-input-chip></div>
+</div>
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-d
+emo.component.ts:15:8
+2 - error NG8001: 
+'ngx-sirio-input' is 
+not a known element:
+1. If 
+'ngx-sirio-input' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-input' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15           <div cla
+ss="demo-section"><h3
+>Input Text</h3><div 
+class="preview-area">
+<ngx-sirio-input 
+label="Nome" placehol
+der="Inserisci il 
+tuo nome"></ngx-sirio
+-input></div></div>
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/form/input-d
+emo.component.ts:16:8
+4 - error NG8001: 
+'ngx-sirio-input' is 
+not a known element:
+1. If 
+'ngx-sirio-input' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-input' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16           <div cla
+ss="demo-section"><h3
+>Input 
+Number</h3><div class
+="preview-area"><ngx-
+sirio-input 
+label="Et├á" 
+type="number" placeho
+lder="Inserisci et├á"
+></ngx-sirio-input></
+div></div>
+                     
+                     
+                     
+                     
+  ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-d
+emo.component.ts:17:8
+0 - error NG8001: 
+'ngx-sirio-input' is 
+not a known element:
+1. If 
+'ngx-sirio-input' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-input' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17           <div cla
+ss="demo-section"><h3
+>Textarea</h3><div cl
+ass="preview-area"><n
+gx-sirio-input 
+label="Note" 
+type="textarea" 
+placeholder="Scrivi 
+una nota..."></ngx-si
+rio-input></div></div
+>
+                     
+                     
+                     
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-d
+emo.component.ts:18:8
+0 - error NG8001: 
+'ngx-sirio-input' is 
+not a known element:
+1. If 
+'ngx-sirio-input' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-input' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+18           <div cla
+ss="demo-section"><h3
+>Disabled</h3><div cl
+ass="preview-area"><n
+gx-sirio-input 
+label="Campo 
+disabilitato" 
+[disabled]="true" 
+placeholder="Non modi
+ficabile"></ngx-sirio
+-input></div></div>
+                     
+                     
+                     
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/input-d
+emo.component.ts:18:1
+24 - error NG8002: 
+Can't bind to 
+'disabled' since it 
+isn't a known 
+property of 
+'ngx-sirio-input'.
+1. If 
+'ngx-sirio-input' is 
+an Angular component 
+and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-input' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+18           <div cla
+ss="demo-section"><h3
+>Disabled</h3><div cl
+ass="preview-area"><n
+gx-sirio-input 
+label="Campo 
+disabilitato" 
+[disabled]="true" 
+placeholder="Non modi
+ficabile"></ngx-sirio
+-input></div></div>
+                     
+                     
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/radio-b
+utton-demo.component.
+ts:15:13 - error 
+NG8001: 'ngx-sirio-ra
+dio-button' is not a 
+known element:
+1. If 'ngx-sirio-radi
+o-button' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-radi
+o-button' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             <ngx-s
+irio-radio-button 
+label="Opzione A" 
+value="a" name="demo-
+radio"></ngx-sirio-ra
+dio-button>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+
+
+Error: src/app/showca
+se/demos/form/radio-b
+utton-demo.component.
+ts:16:13 - error 
+NG8001: 'ngx-sirio-ra
+dio-button' is not a 
+known element:
+1. If 'ngx-sirio-radi
+o-button' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-radi
+o-button' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16             <ngx-s
+irio-radio-button 
+label="Opzione B" 
+value="b" name="demo-
+radio"></ngx-sirio-ra
+dio-button>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+
+
+Error: src/app/showca
+se/demos/form/radio-b
+utton-demo.component.
+ts:17:13 - error 
+NG8001: 'ngx-sirio-ra
+dio-button' is not a 
+known element:
+1. If 'ngx-sirio-radi
+o-button' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-radi
+o-button' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17             <ngx-s
+irio-radio-button 
+label="Disabilitata" 
+value="c" 
+name="demo-radio" dis
+abled="true"></ngx-si
+rio-radio-button>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/radio-g
+roup-demo.component.t
+s:15:13 - error 
+NG8001: 'ngx-sirio-ra
+dio-group' is not a 
+known element:
+1. If 'ngx-sirio-radi
+o-group' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-radi
+o-group' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             <ngx-s
+irio-radio-group 
+label="Genere" [items
+]="radioItems"></ngx-
+sirio-radio-group>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/radio-g
+roup-demo.component.t
+s:15:51 - error 
+NG8002: Can't bind 
+to 'items' since it 
+isn't a known 
+property of 'ngx-siri
+o-radio-group'.
+1. If 'ngx-sirio-radi
+o-group' is an 
+Angular component 
+and it has 'items' 
+input, then verify 
+that it is part of 
+this module.
+2. If 'ngx-sirio-radi
+o-group' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+15             <ngx-s
+irio-radio-group 
+label="Genere" [items
+]="radioItems"></ngx-
+sirio-radio-group>
+                     
+                     
+           
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/rangepi
+cker-demo.component.t
+s:13:83 - error 
+NG8001: 'ngx-sirio-ra
+ngepicker' is not a 
+known element:
+1. If 'ngx-sirio-rang
+epicker' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-rang
+epicker' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+13           <div cla
+ss="demo-section"><h3
+>Rangepicker</h3><div
+ class="preview-area"
+><ngx-sirio-rangepick
+er label="Periodo"></
+ngx-sirio-rangepicker
+></div></div>
+                     
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:16:
+13 - error NG8001: 
+'ngx-sirio-select' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-select' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-select' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16             
+<ngx-sirio-select 
+label="Regione" place
+holder="Seleziona 
+regione">
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:17:
+15 - error NG8001: 'n
+gx-sirio-select-panel
+' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-panel' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17               <ngx
+-sirio-select-panel>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:18:
+17 - error NG8001: 'n
+gx-sirio-select-optio
+n' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-option' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-option' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+18                 <n
+gx-sirio-select-optio
+n value="lazio">Lazio
+</ngx-sirio-select-op
+tion>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:19:
+17 - error NG8001: 'n
+gx-sirio-select-optio
+n' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-option' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-option' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+19                 <n
+gx-sirio-select-optio
+n value="lombardia">L
+ombardia</ngx-sirio-s
+elect-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:20:
+17 - error NG8001: 'n
+gx-sirio-select-optio
+n' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-option' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-option' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+20                 <n
+gx-sirio-select-optio
+n value="campania">Ca
+mpania</ngx-sirio-sel
+ect-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:21:
+17 - error NG8001: 'n
+gx-sirio-select-optio
+n' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-option' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-option' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+21                 <n
+gx-sirio-select-optio
+n value="piemonte">Pi
+emonte</ngx-sirio-sel
+ect-option>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:26:
+13 - error NG8001: 
+'ngx-sirio-select' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-select' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-select' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+26             
+<ngx-sirio-select 
+label="Regione" 
+placeholder="Non 
+selezionabile" 
+[disabled]="true">
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:26:
+79 - error NG8002: 
+Can't bind to 
+'disabled' since it 
+isn't a known 
+property of 
+'ngx-sirio-select'.
+1. If 
+'ngx-sirio-select' 
+is an Angular 
+component and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-select' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+26             
+<ngx-sirio-select 
+label="Regione" 
+placeholder="Non 
+selezionabile" 
+[disabled]="true">
+                     
+                     
+                     
+                  
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:27:
+15 - error NG8001: 'n
+gx-sirio-select-panel
+' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-panel' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+27               <ngx
+-sirio-select-panel>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/select-
+demo.component.ts:28:
+17 - error NG8001: 'n
+gx-sirio-select-optio
+n' is not a known 
+element:
+1. If 'ngx-sirio-sele
+ct-option' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-sele
+ct-option' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+28                 <n
+gx-sirio-select-optio
+n value="test">Test</
+ngx-sirio-select-opti
+on>
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/slider-
+demo.component.ts:14:
+83 - error NG8001: 
+'ngx-sirio-slider' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-slider' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-slider' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14           <div cla
+ss="demo-section"><h3
+>Slider 
+Base</h3><div class="
+preview-area"><ngx-si
+rio-slider label="Vol
+ume"></ngx-sirio-slid
+er></div></div>
+                     
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/slider-
+demo.component.ts:15:
+91 - error NG8001: 
+'ngx-sirio-slider' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-slider' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-slider' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15           <div cla
+ss="demo-section"><h3
+>Slider Disabilitato<
+/h3><div class="previ
+ew-area"><ngx-sirio-s
+lider 
+label="Disabilitato" 
+[disabled]="true"></n
+gx-sirio-slider></div
+></div>
+                     
+                     
+                     
+                     
+         ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/form/slider-
+demo.component.ts:15:
+130 - error NG8002: 
+Can't bind to 
+'disabled' since it 
+isn't a known 
+property of 
+'ngx-sirio-slider'.
+1. If 
+'ngx-sirio-slider' 
+is an Angular 
+component and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-slider' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+15           <div cla
+ss="demo-section"><h3
+>Slider Disabilitato<
+/h3><div class="previ
+ew-area"><ngx-sirio-s
+lider 
+label="Disabilitato" 
+[disabled]="true"></n
+gx-sirio-slider></div
+></div>
+                     
+                     
+                     
+                     
+                     
+                     
+      
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/timepic
+ker-demo.component.ts
+:13:82 - error 
+NG8001: 'ngx-sirio-ti
+mepicker' is not a 
+known element:
+1. If 'ngx-sirio-time
+picker' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-time
+picker' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+13           <div cla
+ss="demo-section"><h3
+>Timepicker</h3><div 
+class="preview-area">
+<ngx-sirio-timepicker
+ label="Orario appunt
+amento"></ngx-sirio-t
+imepicker></div></div
+>
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/toggle-
+demo.component.ts:15:
+13 - error NG8001: 
+'ngx-sirio-toggle' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-toggle' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-toggle' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             
+<ngx-sirio-toggle 
+label="Notifiche Emai
+l"></ngx-sirio-toggle
+>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/toggle-
+demo.component.ts:16:
+13 - error NG8001: 
+'ngx-sirio-toggle' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-toggle' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-toggle' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16             
+<ngx-sirio-toggle 
+label="Attivo" checke
+d="true"></ngx-sirio-
+toggle>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/form/toggle-
+demo.component.ts:17:
+13 - error NG8001: 
+'ngx-sirio-toggle' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-toggle' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-toggle' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17             
+<ngx-sirio-toggle 
+label="Disabilitato" 
+disabled="true"></ngx
+-sirio-toggle>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+badge-demo.component.
+ts:3:634 - error 
+NG8001: 
+'ngx-sirio-badge' is 
+not a known element:
+1. If 
+'ngx-sirio-badge' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-badge' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-badge', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Badge</h1><p>Bad
+ge indicatore 
+numerico o di 
+stato.</p></div><div 
+class="demo-tabs"><di
+v class="tab-nav"><bu
+tton class="tab-btn" 
+[class.active]="activ
+eTab==='preview'" (cl
+ick)="activeTab='prev
+iew'">Preview</button
+><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='code'" (click)="ac
+tiveTab='code'">Code<
+/button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Badg
+e</h3><div class="pre
+view-area"><ngx-sirio
+-badge>5</ngx-sirio-b
+adge></div></div></di
+v><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-badge&g
+t;5&lt;/ngx-sirio-bad
+ge&gt;</pre></div></d
+iv></div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Selector</h3>
+<table class="api-tab
+le"><thead><tr><th>Se
+lettore</th><th>Descr
+izione</th></tr></the
+ad><tbody><tr><td><co
+de>ngx-sirio-badge</c
+ode></td><td>Badge in
+dicatore</td></tr></t
+body></table></div></
+div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+     
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+carousel-demo.compone
+nt.ts:3:675 - error 
+NG8001: 
+'ngx-sirio-carousel' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-carousel' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-carousel' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-carousel', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Carousel</h1><p>
+Componente carousel 
+per scorrimento conte
+nuti.</p></div><div c
+lass="demo-tabs"><div
+ class="tab-nav"><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='preview'" (cli
+ck)="activeTab='previ
+ew'">Preview</button>
+<button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='code'" (click)="ac
+tiveTab='code'">Code<
+/button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Caro
+usel</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-carousel
+></ngx-sirio-carousel
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-carouse
+l&gt;&lt;/ngx-sirio-c
+arousel&gt;</pre></di
+v></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Selector</h3>
+<table class="api-tab
+le"><thead><tr><th>Se
+lettore</th><th>Descr
+izione</th></tr></the
+ad><tbody><tr><td><co
+de>ngx-sirio-carousel
+</code></td><td>Carou
+sel slider</td></tr><
+/tbody></table></div>
+</div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+    
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:4:3 - error 
+NG8001: 
+'ngx-sirio-chip' is 
+not a known element:
+1. If 
+'ngx-sirio-chip' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-chip' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-chip 
+label="Chip Base"></n
+gx-sirio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:5:3 - error 
+NG8001: 
+'ngx-sirio-chip' is 
+not a known element:
+1. If 
+'ngx-sirio-chip' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-chip' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   <ngx-sirio-chip 
+label="Chip 
+Chiudibile" [isDismis
+sible]="true"></ngx-s
+irio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:5:43 - error 
+NG8002: Can't bind 
+to 'isDismissible' 
+since it isn't a 
+known property of 
+'ngx-sirio-chip'.
+1. If 
+'ngx-sirio-chip' is 
+an Angular component 
+and it has 
+'isDismissible' 
+input, then verify 
+that it is part of 
+this module.
+2. If 
+'ngx-sirio-chip' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+5   <ngx-sirio-chip 
+label="Chip 
+Chiudibile" [isDismis
+sible]="true"></ngx-s
+irio-chip>
+                     
+                     
+  ~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:6:3 - error 
+NG8001: 
+'ngx-sirio-chip' is 
+not a known element:
+1. If 
+'ngx-sirio-chip' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-chip' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6   <ngx-sirio-chip 
+label="Disabilitato" 
+[disabled]="true"></n
+gx-sirio-chip>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+chip-demo.component.t
+s:6:40 - error 
+NG8002: Can't bind 
+to 'disabled' since 
+it isn't a known 
+property of 
+'ngx-sirio-chip'.
+1. If 
+'ngx-sirio-chip' is 
+an Angular component 
+and it has 
+'disabled' input, 
+then verify that it 
+is part of this 
+module.
+2. If 
+'ngx-sirio-chip' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+6   <ngx-sirio-chip 
+label="Disabilitato" 
+[disabled]="true"></n
+gx-sirio-chip>
+                     
+                    
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+dropdown-demo.compone
+nt.ts:4:3 - error 
+NG8001: 
+'ngx-sirio-dropdown' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-dropdown' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-dropdown' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   
+<ngx-sirio-dropdown 
+label="Azioni">
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+dropdown-demo.compone
+nt.ts:5:5 - error 
+NG8001: 'ngx-sirio-dr
+opdown-panel' is not 
+a known element:
+1. If 'ngx-sirio-drop
+down-panel' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-drop
+down-panel' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5     <ngx-sirio-drop
+down-panel>
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+dropdown-demo.compone
+nt.ts:6:7 - error 
+NG8001: 'ngx-sirio-dr
+opdown-item' is not 
+a known element:
+1. If 'ngx-sirio-drop
+down-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-drop
+down-item' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6       <ngx-sirio-dr
+opdown-item label="Mo
+difica"></ngx-sirio-d
+ropdown-item>
+        ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+dropdown-demo.compone
+nt.ts:7:7 - error 
+NG8001: 'ngx-sirio-dr
+opdown-item' is not 
+a known element:
+1. If 'ngx-sirio-drop
+down-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-drop
+down-item' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+7       <ngx-sirio-dr
+opdown-item label="Du
+plica"></ngx-sirio-dr
+opdown-item>
+        ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+dropdown-demo.compone
+nt.ts:8:7 - error 
+NG8001: 'ngx-sirio-dr
+opdown-item' is not 
+a known element:
+1. If 'ngx-sirio-drop
+down-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-drop
+down-item' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+8       <ngx-sirio-dr
+opdown-item label="El
+imina"></ngx-sirio-dr
+opdown-item>
+        ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+link-demo.component.t
+s:3:647 - error 
+NG8001: 
+'ngx-sirio-link' is 
+not a known element:
+1. If 
+'ngx-sirio-link' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-link' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-link', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Link</h1><p>Link
+ accessibile con 
+varianti di stile e n
+avigazione.</p></div>
+<div class="demo-tabs
+"><div class="tab-nav
+"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Link
+</h3><div class="prev
+iew-area"><ngx-sirio-
+link label="Vai alla 
+pagina" href="#"></ng
+x-sirio-link></div></
+div></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-link 
+label="Vai alla 
+pagina" href="/destin
+azione"&gt;&lt;/ngx-s
+irio-link&gt;</pre></
+div></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>label</code>
+</td><td><code>string
+</code></td><td>Testo
+ link</td></tr><tr><t
+d><code>href</code></
+td><td><code>string</
+code></td><td>URL des
+tinazione</td></tr></
+tbody></table></div><
+/div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                  ~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+searchbar-demo.compon
+ent.ts:3:651 - error 
+NG8001: 'ngx-sirio-se
+archbar' is not a 
+known element:
+1. If 'ngx-sirio-sear
+chbar' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-sear
+chbar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-searchbar', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Searchbar</h1><p
+>Barra di ricerca 
+con icona e clear but
+ton.</p></div><div cl
+ass="demo-tabs"><div 
+class="tab-nav"><butt
+on class="tab-btn" [c
+lass.active]="activeT
+ab==='preview'" (clic
+k)="activeTab='previe
+w'">Preview</button><
+button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='code'" (click)="ac
+tiveTab='code'">Code<
+/button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Sear
+chbar</h3><div class=
+"preview-area"><ngx-s
+irio-searchbar 
+label="Cerca" placeho
+lder="Cerca..."></ngx
+-sirio-searchbar></di
+v></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-searchb
+ar label="Cerca" plac
+eholder="Cerca..."&gt
+;&lt;/ngx-sirio-searc
+hbar&gt;</pre></div><
+/div></div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>label</code>
+</td><td><code>string
+</code></td><td>Label
+</td></tr><tr><td><co
+de>placeholder</code>
+</td><td><code>string
+</code></td><td>Place
+holder</td></tr></tbo
+dy></table></div></di
+v></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+stepper-demo.componen
+t.ts:3:664 - error 
+NG8001: 
+'ngx-sirio-stepper' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-stepper' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-stepper' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-stepper', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Stepper</h1><p>S
+tepper con step 
+lineari o navigabili.
+</p></div><div class=
+"demo-tabs"><div clas
+s="tab-nav"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Step
+per</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-stepper>
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+              
+~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+stepper-demo.componen
+t.ts:4:3 - error 
+NG8001: 
+'ngx-sirio-step' is 
+not a known element:
+1. If 
+'ngx-sirio-step' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-step' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-step 
+label="Dati personali
+"><p>Inserisci i 
+tuoi dati personali</
+p></ngx-sirio-step>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~
+
+
+Error: src/app/showca
+se/demos/interaction/
+stepper-demo.componen
+t.ts:5:3 - error 
+NG8001: 
+'ngx-sirio-step' is 
+not a known element:
+1. If 
+'ngx-sirio-step' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-step' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   <ngx-sirio-step l
+abel="Indirizzo"><p>I
+nserisci il tuo indir
+izzo</p></ngx-sirio-s
+tep>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+stepper-demo.componen
+t.ts:6:3 - error 
+NG8001: 
+'ngx-sirio-step' is 
+not a known element:
+1. If 
+'ngx-sirio-step' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-step' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6   <ngx-sirio-step l
+abel="Conferma"><p>Co
+ntrolla e conferma</p
+></ngx-sirio-step>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-bar-demo.componen
+t.ts:3:672 - error 
+NG8001: 
+'ngx-sirio-tab-bar' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-tab-bar' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-tab-bar' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-tab-bar', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Tab 
+Bar</h1><p>Barra tab 
+alternativa per 
+navigazione interna.<
+/p></div><div class="
+demo-tabs"><div class
+="tab-nav"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Tab 
+Bar</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-tab-bar>
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+ ~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-bar-demo.componen
+t.ts:4:3 - error 
+NG8001: 'ngx-sirio-ta
+b-bar-element' is 
+not a known element:
+1. If 'ngx-sirio-tab-
+bar-element' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-tab-
+bar-element' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   <ngx-sirio-tab-ba
+r-element label="Prim
+o"></ngx-sirio-tab-ba
+r-element>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-bar-demo.componen
+t.ts:5:3 - error 
+NG8001: 'ngx-sirio-ta
+b-bar-element' is 
+not a known element:
+1. If 'ngx-sirio-tab-
+bar-element' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-tab-
+bar-element' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5   <ngx-sirio-tab-ba
+r-element label="Seco
+ndo"></ngx-sirio-tab-
+bar-element>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-bar-demo.componen
+t.ts:6:3 - error 
+NG8001: 'ngx-sirio-ta
+b-bar-element' is 
+not a known element:
+1. If 'ngx-sirio-tab-
+bar-element' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-tab-
+bar-element' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6   <ngx-sirio-tab-ba
+r-element label="Terz
+o"></ngx-sirio-tab-ba
+r-element>
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-demo.component.ts
+:4:3 - error NG8001: 
+'ngx-sirio-tab-group'
+ is not a known 
+element:
+1. If 'ngx-sirio-tab-
+group' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-tab-
+group' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+4   
+<ngx-sirio-tab-group>
+    
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-demo.component.ts
+:5:5 - error NG8001: 
+'ngx-sirio-tab' is 
+not a known element:
+1. If 
+'ngx-sirio-tab' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-tab' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+5     <ngx-sirio-tab 
+label="Tab 
+1"><p>Contenuto 
+primo tab</p></ngx-si
+rio-tab>
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-demo.component.ts
+:6:5 - error NG8001: 
+'ngx-sirio-tab' is 
+not a known element:
+1. If 
+'ngx-sirio-tab' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-tab' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+6     <ngx-sirio-tab 
+label="Tab 
+2"><p>Contenuto 
+secondo tab</p></ngx-
+sirio-tab>
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tab-demo.component.ts
+:7:5 - error NG8001: 
+'ngx-sirio-tab' is 
+not a known element:
+1. If 
+'ngx-sirio-tab' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-tab' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+7     <ngx-sirio-tab 
+label="Tab 
+3"><p>Contenuto 
+terzo tab</p></ngx-si
+rio-tab>
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+tag-demo.component.ts
+:3:639 - error 
+NG8001: 
+'ngx-sirio-tag' is 
+not a known element:
+1. If 
+'ngx-sirio-tag' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-tag' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-tag', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Tag</h1><p>Tag 
+per categorizzazione 
+e filtraggio contenut
+i.</p></div><div clas
+s="demo-tabs"><div cl
+ass="tab-nav"><button
+ class="tab-btn" [cla
+ss.active]="activeTab
+==='preview'" (click)
+="activeTab='preview'
+">Preview</button><bu
+tton class="tab-btn" 
+[class.active]="activ
+eTab==='code'" (click
+)="activeTab='code'">
+Code</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Tag<
+/h3><div class="previ
+ew-area"><ngx-sirio-t
+ag label="Tag Esempio
+"></ngx-sirio-tag></d
+iv></div></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-tag 
+label="Tag Esempio"&g
+t;&lt;/ngx-sirio-tag&
+gt;</pre></div></div>
+</div><div 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>label</code>
+</td><td><code>string
+</code></td><td>Testo
+ tag</td></tr></tbody
+></table></div></div>
+</div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+          ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+
+Error: src/app/showca
+se/demos/interaction/
+title-bar-demo.compon
+ent.ts:3:666 - error 
+NG8001: 'ngx-sirio-ti
+tle-bar' is not a 
+known element:
+1. If 'ngx-sirio-titl
+e-bar' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-titl
+e-bar' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-title-bar', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Title 
+Bar</h1><p>Barra 
+titolo con azioni opz
+ionali.</p></div><div
+ class="demo-tabs"><d
+iv class="tab-nav"><b
+utton 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Titl
+e Bar</h3><div 
+class="preview-area" 
+style="display:block;
+"><ngx-sirio-title-ba
+r title="Titolo Pagin
+a"></ngx-sirio-title-
+bar></div></div></div
+><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">H
+TML</span></div><pre>
+&lt;ngx-sirio-title-b
+ar title="Titolo Pagi
+na"&gt;&lt;/ngx-sirio
+-title-bar&gt;</pre><
+/div></div></div><div
+ class="tab-content" 
+*ngIf="activeTab==='a
+pi'"><h3>Inputs</h3><
+table class="api-tabl
+e"><thead><tr><th>Nom
+e</th><th>Tipo</th><t
+h>Descrizione</th></t
+r></thead><tbody><tr>
+<td><code>title</code
+></td><td><code>strin
+g</code></td><td>Tito
+lo</td></tr></tbody><
+/table></div></div></
+div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                ~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/bread
+crumb-demo.component.
+ts:14:13 - error 
+NG8001: 'ngx-sirio-br
+eadcrumb' is not a 
+known element:
+1. If 'ngx-sirio-brea
+dcrumb' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-brea
+dcrumb' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             <ngx-s
+irio-breadcrumb>
+               ~~~~~~
+~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/bread
+crumb-demo.component.
+ts:15:15 - error 
+NG8001: 'ngx-sirio-br
+eadcrumb-item' is 
+not a known element:
+1. If 'ngx-sirio-brea
+dcrumb-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-brea
+dcrumb-item' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15               <ngx
+-sirio-breadcrumb-ite
+m label="Home"></ngx-
+sirio-breadcrumb-item
+>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/bread
+crumb-demo.component.
+ts:16:15 - error 
+NG8001: 'ngx-sirio-br
+eadcrumb-item' is 
+not a known element:
+1. If 'ngx-sirio-brea
+dcrumb-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-brea
+dcrumb-item' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+16               <ngx
+-sirio-breadcrumb-ite
+m label="Componenti">
+</ngx-sirio-breadcrum
+b-item>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/bread
+crumb-demo.component.
+ts:17:15 - error 
+NG8001: 'ngx-sirio-br
+eadcrumb-item' is 
+not a known element:
+1. If 'ngx-sirio-brea
+dcrumb-item' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-brea
+dcrumb-item' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+17               <ngx
+-sirio-breadcrumb-ite
+m label="Breadcrumb" 
+[isActive]="true"></n
+gx-sirio-breadcrumb-i
+tem>
+                 ~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/bread
+crumb-demo.component.
+ts:17:61 - error 
+NG8002: Can't bind 
+to 'isActive' since 
+it isn't a known 
+property of 'ngx-siri
+o-breadcrumb-item'.
+1. If 'ngx-sirio-brea
+dcrumb-item' is an 
+Angular component 
+and it has 
+'isActive' input, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-brea
+dcrumb-item' is a 
+Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+17               <ngx
+-sirio-breadcrumb-ite
+m label="Breadcrumb" 
+[isActive]="true"></n
+gx-sirio-breadcrumb-i
+tem>
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/foote
+r-demo.component.ts:1
+4:13 - error NG8001: 
+'ngx-sirio-footer' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-footer' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-footer' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             <ngx-s
+irio-footer></ngx-sir
+io-footer>
+               
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/heade
+r-demo.component.ts:1
+5:13 - error NG8001: 
+'ngx-sirio-header' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-header' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-header' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             <ngx-s
+irio-header></ngx-sir
+io-header>
+               
+~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/siden
+av-demo.component.ts:
+15:13 - error 
+NG8001: 
+'ngx-sirio-sidenav' 
+is not a known 
+element:
+1. If 
+'ngx-sirio-sidenav' 
+is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-sidenav' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+15             
+<ngx-sirio-sidenav [i
+tems]="sidenavItems">
+</ngx-sirio-sidenav>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/siden
+av-demo.component.ts:
+15:32 - error 
+NG8002: Can't bind 
+to 'items' since it 
+isn't a known 
+property of 
+'ngx-sirio-sidenav'.
+1. If 
+'ngx-sirio-sidenav' 
+is an Angular 
+component and it has 
+'items' input, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-sidenav' 
+is a Web Component 
+then add 'CUSTOM_ELEM
+ENTS_SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+15             
+<ngx-sirio-sidenav [i
+tems]="sidenavItems">
+</ngx-sirio-sidenav>
+                     
+             ~~~~~~~~
+~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/layout/siden
+av-mobile-demo.compon
+ent.ts:14:13 - error 
+NG8001: 'ngx-sirio-si
+denav-mobile' is not 
+a known element:
+1. If 'ngx-sirio-side
+nav-mobile' is an 
+Angular component, 
+then verify that it 
+is part of this 
+module.
+2. If 'ngx-sirio-side
+nav-mobile' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+14             <ngx-s
+irio-sidenav-mobile><
+/ngx-sirio-sidenav-mo
+bile>
+               ~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/tables/pagin
+ator-demo.component.t
+s:3:671 - error 
+NG8001: 'ngx-sirio-pa
+ginator' is not a 
+known element:
+1. If 'ngx-sirio-pagi
+nator' is an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-pagi
+nator' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-paginator', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Paginator</h1><p
+>Componente di 
+paginazione con 
+dimensione pagina e n
+avigazione.</p></div>
+<div class="demo-tabs
+"><div class="tab-nav
+"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Pagi
+nator</h3><div class=
+"preview-area"><ngx-s
+irio-paginator [confi
+g]="paginatorConfig">
+</ngx-sirio-paginator
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">T
+ypeScript</span></div
+><pre>{{ code }}</pre
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>config</code
+></td><td><code>Pagin
+atorConfig</code></td
+><td>Configurazione p
+aginatore</td></tr></
+tbody></table><h3>Out
+puts</h3><table class
+="api-table"><thead><
+tr><th>Nome</th><th>T
+ipo</th><th>Descrizio
+ne</th></tr></thead><
+tbody><tr><td><code>p
+ageChange</code></td>
+<td><code>EventEmitte
+r&lt;PageEvent&gt;</c
+ode></td><td>Emesso 
+al cambio pagina</td>
+</tr></tbody></table>
+</div></div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+
+Error: src/app/showca
+se/demos/tables/pagin
+ator-demo.component.t
+s:3:692 - error 
+NG8002: Can't bind 
+to 'config' since it 
+isn't a known 
+property of 'ngx-siri
+o-paginator'.
+1. If 'ngx-sirio-pagi
+nator' is an Angular 
+component and it has 
+'config' input, then 
+verify that it is 
+part of this module.
+2. If 'ngx-sirio-pagi
+nator' is a Web 
+Component then add 'C
+USTOM_ELEMENTS_SCHEMA
+' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+3     selector: 
+'demo-paginator', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Paginator</h1><p
+>Componente di 
+paginazione con 
+dimensione pagina e n
+avigazione.</p></div>
+<div class="demo-tabs
+"><div class="tab-nav
+"><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='preview'" (click)=
+"activeTab='preview'"
+>Preview</button><but
+ton class="tab-btn" [
+class.active]="active
+Tab==='code'" (click)
+="activeTab='code'">C
+ode</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Pagi
+nator</h3><div class=
+"preview-area"><ngx-s
+irio-paginator [confi
+g]="paginatorConfig">
+</ngx-sirio-paginator
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">T
+ypeScript</span></div
+><pre>{{ code }}</pre
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>config</code
+></td><td><code>Pagin
+atorConfig</code></td
+><td>Configurazione p
+aginatore</td></tr></
+tbody></table><h3>Out
+puts</h3><table class
+="api-table"><thead><
+tr><th>Nome</th><th>T
+ipo</th><th>Descrizio
+ne</th></tr></thead><
+tbody><tr><td><code>p
+ageChange</code></td>
+<td><code>EventEmitte
+r&lt;PageEvent&gt;</c
+ode></td><td>Emesso 
+al cambio pagina</td>
+</tr></tbody></table>
+</div></div></div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+
+Error: src/app/showca
+se/demos/tables/table
+-demo.component.ts:3:
+681 - error NG8001: 
+'ngx-sirio-table' is 
+not a known element:
+1. If 
+'ngx-sirio-table' is 
+an Angular 
+component, then 
+verify that it is 
+part of this module.
+2. If 
+'ngx-sirio-table' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+
+3     selector: 
+'demo-table', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Table</h1><p>Tab
+ella HTML semplice 
+con scroll orizzontal
+e.</p></div><div clas
+s="demo-tabs"><div cl
+ass="tab-nav"><button
+ class="tab-btn" [cla
+ss.active]="activeTab
+==='preview'" (click)
+="activeTab='preview'
+">Preview</button><bu
+tton class="tab-btn" 
+[class.active]="activ
+eTab==='code'" (click
+)="activeTab='code'">
+Code</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Tabe
+lla</h3><div 
+class="preview-area" 
+style="display:block;
+overflow:auto;"><ngx-
+sirio-table [config]=
+"tableConfig"></ngx-s
+irio-table></div></di
+v></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">T
+ypeScript</span></div
+><pre>{{ code }}</pre
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>config</code
+></td><td><code>Table
+Config</code></td><td
+>Configurazione tabel
+la</td></tr></tbody><
+/table></div></div></
+div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+          ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+
+Error: src/app/showca
+se/demos/tables/table
+-demo.component.ts:3:
+698 - error NG8002: 
+Can't bind to 
+'config' since it 
+isn't a known 
+property of 
+'ngx-sirio-table'.
+1. If 
+'ngx-sirio-table' is 
+an Angular component 
+and it has 'config' 
+input, then verify 
+that it is part of 
+this module.
+2. If 
+'ngx-sirio-table' is 
+a Web Component then 
+add 'CUSTOM_ELEMENTS_
+SCHEMA' to the 
+'@NgModule.schemas' 
+of this component to 
+suppress this 
+message.
+3. To allow any 
+property add 
+'NO_ERRORS_SCHEMA' 
+to the 
+'@NgModule.schemas' 
+of this component.
+
+3     selector: 
+'demo-table', 
+template: `<div class
+="component-demo"><di
+v class="demo-header"
+><h1>Table</h1><p>Tab
+ella HTML semplice 
+con scroll orizzontal
+e.</p></div><div clas
+s="demo-tabs"><div cl
+ass="tab-nav"><button
+ class="tab-btn" [cla
+ss.active]="activeTab
+==='preview'" (click)
+="activeTab='preview'
+">Preview</button><bu
+tton class="tab-btn" 
+[class.active]="activ
+eTab==='code'" (click
+)="activeTab='code'">
+Code</button><button 
+class="tab-btn" [clas
+s.active]="activeTab=
+=='api'" (click)="act
+iveTab='api'">API</bu
+tton></div><div 
+class="tab-content" *
+ngIf="activeTab==='pr
+eview'"><div class="d
+emo-section"><h3>Tabe
+lla</h3><div 
+class="preview-area" 
+style="display:block;
+overflow:auto;"><ngx-
+sirio-table [config]=
+"tableConfig"></ngx-s
+irio-table></div></di
+v></div><div 
+class="tab-content" *
+ngIf="activeTab==='co
+de'"><div class="demo
+-section"><div class=
+"code-block"><div cla
+ss="code-header"><spa
+n class="code-lang">T
+ypeScript</span></div
+><pre>{{ code }}</pre
+></div></div></div><d
+iv 
+class="tab-content" *
+ngIf="activeTab==='ap
+i'"><h3>Inputs</h3><t
+able class="api-table
+"><thead><tr><th>Nome
+</th><th>Tipo</th><th
+>Descrizione</th></tr
+></thead><tbody><tr><
+td><code>config</code
+></td><td><code>Table
+Config</code></td><td
+>Configurazione tabel
+la</td></tr></tbody><
+/table></div></div></
+div>`,
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+      ~~~~~~~~~~~~~~~
+~~~~~~~
+
+
+Error: src/app/showca
+se/showcase.module.ts
+:31:65 - error 
+TS2724: 
+'"ngx-sirio-lib"' 
+has no exported 
+member named 'SirioAc
+cordionPanelHeaderCom
+ponent'. Did you 
+mean 'SirioAccordionH
+eaderComponent'?
+
+31 import { SirioAcco
+rdionComponent, Sirio
+AccordionPanelCompone
+nt, SirioAccordionPan
+elHeaderComponent, Si
+rioAccordionPanelBody
+Component } from 
+'ngx-sirio-lib';
+                     
+                     
+                     
+    ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+  node_modules/ngx-si
+rio-lib/lib/contents/
+sirio-accordion/sirio
+-accordion-panel-head
+er.component.d.ts:5:2
+2
+    5 export declare 
+class SirioAccordionH
+eaderComponent {
+                     
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+    'SirioAccordionHe
+aderComponent' is 
+declared here.
+
+
+Error: src/app/showca
+se/showcase.module.ts
+:31:101 - error 
+TS2724: 
+'"ngx-sirio-lib"' 
+has no exported 
+member named 'SirioAc
+cordionPanelBodyCompo
+nent'. Did you mean '
+SirioAccordionPanelCo
+mponent'?
+
+31 import { SirioAcco
+rdionComponent, Sirio
+AccordionPanelCompone
+nt, SirioAccordionPan
+elHeaderComponent, Si
+rioAccordionPanelBody
+Component } from 
+'ngx-sirio-lib';
+                     
+                     
+                     
+                     
+                   ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+
+  node_modules/ngx-si
+rio-lib/lib/contents/
+sirio-accordion/sirio
+-accordion-panel.comp
+onent.d.ts:8:22
+    8 export declare 
+class SirioAccordionP
+anelComponent {
+                     
+      ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    'SirioAccordionPa
+nelComponent' is 
+declared here.
+
+
+Error: src/app/showca
+se/showcase.module.ts
+:51:10 - error 
+TS2724: 
+'"ngx-sirio-lib"' 
+has no exported 
+member named 'SirioLi
+nkComponent'. Did 
+you mean 'SirioCardLi
+nkComponent'?
+
+51 import { 
+SirioLinkComponent } 
+from 'ngx-sirio-lib';
+            
+~~~~~~~~~~~~~~~~~~
+
+  node_modules/ngx-si
+rio-lib/lib/contents/
+sirio-card/sirio-card
+-link.component.d.ts:
+2:22
+    2 export declare 
+class SirioCardLinkCo
+mponent {
+                     
+      ~~~~~~~~~~~~~~~
+~~~~~~~
+    'SirioCardLinkCom
+ponent' is declared 
+here.
+
+
+Error: src/app/showca
+se/showcase.module.ts
+:52:10 - error 
+TS2724: 
+'"ngx-sirio-lib"' 
+has no exported 
+member named 'SirioBa
+dgeComponent'. Did 
+you mean 
+'SirioTagComponent'?
+
+52 import { 
+SirioBadgeComponent 
+} from 
+'ngx-sirio-lib';
+            
+~~~~~~~~~~~~~~~~~~~
+
+  node_modules/ngx-si
+rio-lib/lib/contents/
+sirio-tag/sirio-tag.c
+omponent.d.ts:3:22
+    3 export declare 
+class 
+SirioTagComponent {
+                     
+      
+~~~~~~~~~~~~~~~~~
+    
+'SirioTagComponent' 
+is declared here.
+
+
+Error: src/app/showca
+se/showcase.module.ts
+:175:14 - error 
+NG1010: Value
+
+Error: C:/Users/Matti
+aRosati/Desktop/Perso
+nal/sirio-showcase/sr
+c/app/app.component.s
+css exceeded maximum 
+budget. Budget 4.00 
+kB was not met by 
+292 bytes with a 
+total of 4.29 kB.
+
+
