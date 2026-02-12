@@ -55,30 +55,6 @@ interface CategoryCard {
         </div>
       </div>
     </div>
-
-    <!-- Quick Start -->
-    <div class="quickstart-section">
-      <h2>Quick Start</h2>
-      <div class="code-block">
-        <div class="code-header">
-          <span class="code-lang">bash</span>
-        </div>
-        <pre>npm install ./libs/ngx-sirio-lib-1_3_2-A16.tgz --legacy-peer-deps</pre>
-      </div>
-      <div class="code-block" style="margin-top: 12px;">
-        <div class="code-header">
-          <span class="code-lang">typescript</span>
-        </div>
-        <pre>import {{ '{' }} SirioButtonComponent {{ '}' }} from 'ngx-sirio-lib';
-
-@Component({{ '{' }}
-  standalone: true,
-  imports: [SirioButtonComponent],
-  template: \`&lt;ngx-sirio-button color="primary"&gt;Click me&lt;/ngx-sirio-button&gt;\`
-{{ '}' }})
-export class MyComponent {{ '{' }} {{ '}' }}</pre>
-      </div>
-    </div>
   `,
     styles: [`
     :host { display: block; }
