@@ -61,7 +61,6 @@ import { NotifyDemoComponent } from './demos/feedback/notify-demo.component';
 import { ToastDemoComponent } from './demos/feedback/toast-demo.component';
 import { DialogDemoComponent } from './demos/feedback/dialog-demo.component';
 import { ProgressBarDemoComponent } from './demos/feedback/progress-bar-demo.component';
-import { StepperProgressBarDemoComponent } from './demos/feedback/stepper-progress-bar-demo.component';
 
 const routes: Routes = [
     { path: '', component: HomeComponent },
@@ -118,7 +117,7 @@ const routes: Routes = [
     { path: 'components/toast', component: ToastDemoComponent },
     { path: 'components/dialog', component: DialogDemoComponent },
     { path: 'components/progress-bar', component: ProgressBarDemoComponent },
-    { path: 'components/stepper-progress-bar', component: StepperProgressBarDemoComponent },
+    { path: 'components/stepper-progress-bar', component: StepperDemoComponent },
 ];
 
 @NgModule({

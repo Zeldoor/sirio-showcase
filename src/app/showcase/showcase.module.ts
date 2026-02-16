@@ -113,7 +113,6 @@ import { NotifyDemoComponent } from './demos/feedback/notify-demo.component';
 import { ToastDemoComponent } from './demos/feedback/toast-demo.component';
 import { DialogDemoComponent } from './demos/feedback/dialog-demo.component';
 import { ProgressBarDemoComponent } from './demos/feedback/progress-bar-demo.component';
-import { StepperProgressBarDemoComponent } from './demos/feedback/stepper-progress-bar-demo.component';
 
 @NgModule({
     declarations: [
@@ -171,7 +170,6 @@ import { StepperProgressBarDemoComponent } from './demos/feedback/stepper-progre
         ToastDemoComponent,
         DialogDemoComponent,
         ProgressBarDemoComponent,
-        StepperProgressBarDemoComponent,
     ],
     imports: [
         CommonModule,
