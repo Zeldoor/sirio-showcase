@@ -3,10 +3,10 @@
   <button class="menu-toggle" (click)="toggleSidebar()">
     <span class="material-icons">menu</span>
   </button>
-  <div class="header-brand">
+  <div class="header-brand cursor-pointer" (click)="navigateTo('')">
     <span class="brand-icon material-icons">widgets</span>
     <span class="brand-name">ngx-sirio-lib</span>
-    <span class="brand-version">v{{ version }}</span>
+    <span class="brand-version cursor-default" (click)="$event.stopPropagation()">v{{ version }}</span>
   </div>
   <div class="header-spacer"></div>
   <a class="header-link" href="https://www.inps.design/" target="_blank" rel="noopener">
